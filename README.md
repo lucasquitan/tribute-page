@@ -9,3 +9,7 @@ The honoree in the tribute was the Brazilian Formula One pilot **Ayrton Senna**.
 <img src="./images/carro.jpg" alt="Ayrton Senna carrying the flag of Brazil" width="500px">
 </div>
 
+#### freeCodeCamp Project's
+
+- [Tribute Page](https://lucasquitan.github.io/tribute-page)
+- [Survey Form](https://lucasquitan.github.io/survey-form/)
